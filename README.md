@@ -10,6 +10,7 @@
 
 ### 编程 Agent
 
+- [HappyClaw](items/happyclaw.md) - 一个基于 Claude Code 运行时构建的自托管多用户 AI Agent 系统，支持 Web 与多种 IM 渠道接入。
 - [Multica](items/multica.md) - 一个把软件开发任务分配给编程 Agent、跟踪执行过程，并沉淀团队可复用技能的开源平台。
 
 ## 收录标准
