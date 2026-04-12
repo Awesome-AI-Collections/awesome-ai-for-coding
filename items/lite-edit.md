@@ -1,11 +1,8 @@
 ---
 title: "LiteEdit"
-slug: "lite-edit"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "AI IDEs / Editors"
-featured: false
-last_reviewed_at: "2026-04-13T00:00:00+00:00"
+last_reviewed_at: "2026-04-13"
 ---
 
 # LiteEdit

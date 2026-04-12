@@ -1,11 +1,8 @@
 ---
 title: "HumanLayer / CodeLayer"
-slug: "humanlayer"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "AI IDEs / Editors"
-featured: false
-last_reviewed_at: "2026-04-11T06:20:00+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # HumanLayer / CodeLayer

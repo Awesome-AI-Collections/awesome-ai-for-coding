@@ -1,11 +1,8 @@
 ---
 title: "NetEase Skills"
-slug: "netease-skills"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Engineering Workflows"
-featured: false
-last_reviewed_at: "2026-04-11T00:00:00+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # NetEase Skills

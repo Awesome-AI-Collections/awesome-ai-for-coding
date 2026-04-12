@@ -1,11 +1,8 @@
 ---
 title: "AgentHandover"
-slug: "agenthandover"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Engineering Workflows"
-featured: false
-last_reviewed_at: "2026-04-10T19:55:41+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # AgentHandover

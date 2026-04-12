@@ -1,11 +1,8 @@
 ---
 title: "PR-Agent"
-slug: "pr-agent"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Code Review"
-featured: false
-last_reviewed_at: "2026-04-10T00:00:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # PR-Agent

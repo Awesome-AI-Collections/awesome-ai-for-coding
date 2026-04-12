@@ -1,11 +1,8 @@
 ---
 title: "Visual Studio Code"
-slug: "visual-studio-code"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "AI IDEs / Editors"
-featured: true
-last_reviewed_at: "2026-04-11T03:30:00+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # Visual Studio Code

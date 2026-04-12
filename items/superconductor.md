@@ -1,11 +1,8 @@
 ---
 title: "Superconductor"
-slug: "superconductor"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Engineering Workflows"
-featured: true
-last_reviewed_at: "2026-04-10T18:10:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Superconductor

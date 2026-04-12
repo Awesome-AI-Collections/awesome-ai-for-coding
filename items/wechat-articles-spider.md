@@ -1,11 +1,8 @@
 ---
 title: "wechat_articles_spider"
-slug: "wechat-articles-spider"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Engineering Workflows"
-featured: false
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # wechat_articles_spider

@@ -1,11 +1,8 @@
 ---
 title: "Google Antigravity"
-slug: "google-antigravity"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "AI IDEs / Editors"
-featured: false
-last_reviewed_at: "2026-04-11T05:00:00+00:00"
+last_reviewed_at: "2026-04-11"
 ---
 
 # Google Antigravity

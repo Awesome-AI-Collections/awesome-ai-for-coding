@@ -1,11 +1,8 @@
 ---
 title: "r.jina.ai"
-slug: "r-jina-ai"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Engineering Workflows"
-featured: true
-last_reviewed_at: "2026-04-09T00:00:00+00:00"
+last_reviewed_at: "2026-04-09"
 ---
 
 # r.jina.ai

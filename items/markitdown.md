@@ -1,11 +1,8 @@
 ---
 title: "MarkItDown"
-slug: "markitdown"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "Documentation"
-featured: true
-last_reviewed_at: "2026-04-13T00:00:00+00:00"
+last_reviewed_at: "2026-04-13"
 ---
 
 # MarkItDown

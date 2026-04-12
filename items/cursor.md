@@ -1,11 +1,8 @@
 ---
 title: "Cursor"
-slug: "cursor"
-info_type: "awesome-ai-for-coding"
 entity_type: "tool"
 category: "AI IDEs / Editors"
-featured: true
-last_reviewed_at: "2026-04-10T13:15:00+00:00"
+last_reviewed_at: "2026-04-10"
 ---
 
 # Cursor
