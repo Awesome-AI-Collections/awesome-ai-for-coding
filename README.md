@@ -37,7 +37,7 @@
 - [LiteLLM](items/litellm.md) - 统一调用多家 LLM 的网关，适合集成多模型。
 - [llama.cpp](items/llama-cpp.md) - C 和 C++ LLM 推理框架，适合低成本部署。
 - [LlamaIndex](items/llama-index.md) - 一个面向 RAG 与知识索引的开发框架，适合把文档、数据库和工具接入 LLM 应用。
-- [MarkItDown](items/markitdown.md) - 微软开源的文件转 Markdown 工具，可把 PDF、Office 文档、图片、音频、HTML、YouTube 等内容转换成更适合 LLM 和文本分析流水线使用的 Markdown。
+- [MarkItDown](items/markitdown.md) - 微软开源的文件转 Markdown 工具，适合做 Office 文档和杂格式资料的统一转换层，但在 PDF 标题与表格保真上明显偏弱。
 - [mcp-use](items/mcp-use.md) - 一个让 MCP 工具链和服务器更易即插即用的套件，用于多智能体系统的标准化工具集成。
 - [METATRON](items/metatron.md) - 一个本地运行的 AI 渗透测试助手，可自动串联侦察工具、调用本地模型分析漏洞并导出报告。
 - [Milvus](items/milvus.md) - 可扩展向量数据库，适合大规模商品库检索。
@@ -118,6 +118,7 @@
 - [claude-squad](items/claude-squad.md) - 一个用于管理 Claude 小分队的多会话协作工具，适合统一调度多个 Claude 实例。
 - [claude-usage](items/claude-usage.md) - 一个把 Claude Code 本地 JSONL 日志转成可视化仪表盘的工具，可统计 token、模型分布和 API 价格口径下的成本估算。
 - [cli-creator](items/cli-creator.md) - OpenAI 提供的 Codex 技能，用来从 API 文档、OpenAPI、SDK、curl 样例或现有脚本快速设计并构建可长期复用的 CLI。
+- [cli-to-js](items/cli-to-js.md) - 一个把任意 CLI 自动转换成类型化 JavaScript API 的实验性工具，适合让编码 agent 用结构化方式调用本地命令行。
 - [Cloak Browser](items/cloak-browser.md) - 一个面向 AI 自动化的隐私浏览器，主打更强的防封禁与隔离能力。
 - [cmux](items/cmux.md) - 一个面向 macOS 的多智能体终端，可在大屏上同时监控多个 AI 会话的运行状态。
 - [CodeIsland](items/codeisland.md) - 一个把 AI 编程助手状态显示到 MacBook 刘海屏区域的桌面工具，支持实时查看和授权操作。
@@ -205,6 +206,7 @@
 - [Google Antigravity](items/google-antigravity.md) - 一个面向 agent-first 时代的 AI IDE 与开发平台，强调跨编辑器、终端、浏览器的多 Agent 协作与任务编排，提供上下文感知的智能编辑体验。
 - [HumanLayer / CodeLayer](items/humanlayer.md) - HumanLayer 团队推出的 CodeLayer 开源 AI IDE，围绕 Claude Code 提供键盘优先、多会话并行、worktree 与云 worker 编排，以及 advanced context engineering 工作流。
 - [Kiro](items/kiro.md) - 一个强调 spec-driven 开发的 agentic AI 开发环境，主打把需求与规格转化为可执行的工程流程，并在 IDE 内完成从原型到生产的闭环。
+- [LiteEdit](items/lite-edit.md) - 一个原生 macOS 轻量代码编辑器，主打亚秒级启动和低资源占用，适合在 AI 编码工作流里承担快速打开、浏览和小改动任务。
 - [Tabnine](items/tabnine.md) - 一个强调隐私、合规和团队可控性的 AI 编码助手，覆盖补全、聊天、测试、修复和文档生成。
 - [Trae](items/trae.md) - 一个 AI 原生 IDE / 编码工作台，提供 IDE 模式与更自主的 SOLO / Builder 模式，支持多 Agent 协作、上下文理解和从需求到交付的开发流程。
 - [Visual Studio Code](items/visual-studio-code.md) - 一个开放生态的 AI 代码编辑器与开发平台，在经典 VS Code 编辑体验之上，把 Copilot 本地 Agent、云端 Agent、CLI Agent、扩展和 MCP 能力整合进多 Agent 开发工作流。
@@ -233,7 +235,7 @@
 适合生成、整理、转换和维护研发文档与上下文资料的工具。
 
 - [Impeccable](items/impeccable.md) - 一个面向 AI harness 的设计技能体系，用一组命令把设计上下文、评审、排版、配色、布局、动效和硬化检查编码成可复用的前端设计工作流。
-- [MarkItDown](items/markitdown.md) - 微软开源的文件转 Markdown 工具，可把 PDF、Office 文档、图片、音频、HTML、YouTube 等内容转换成更适合 LLM 和文本分析流水线使用的 Markdown。
+- [MarkItDown](items/markitdown.md) - 微软开源的文件转 Markdown 工具，适合做 Office 文档和杂格式资料的统一转换层，但在 PDF 标题与表格保真上明显偏弱。
 - [Skill Seekers](items/skill-seekers.md) - 一个把文档站、GitHub 仓库、PDF、视频等多源资料转换成 Claude Skill、RAG 文档和 IDE AI 上下文的数据层工具。
 
 ### Code Search / Refactoring
