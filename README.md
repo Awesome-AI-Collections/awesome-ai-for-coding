@@ -115,6 +115,7 @@
 - [BMad Method](items/bmad-method.md) - 一个 AI-driven agile development 框架与模块生态，通过专家代理、结构化工作流和 scale-adaptive 规划，把分析、架构、开发、测试和部署串成可扩展的软件工程流程。
 - [Botpress](items/botpress.md) - 一个用于搭建 AI 聊天机器人和对话工作流的平台，适合开发客服与助手类应用。
 - [ByteRover CLI](items/byterover-cli.md) - 一个面向自主编码 agents 的可移植记忆层 CLI，可在编码流程里沉淀、检索和复用长期上下文。
+- [cc-connect](items/cc-connect.md) - 一个把本地 Claude Code、Codex、Gemini CLI 等 coding agents 桥接到飞书、钉钉、Slack、Telegram 等聊天平台的远程协作工具。
 - [Chroma](items/chroma.md) - 向量数据库，用于产品和客户语义检索。
 - [claude-squad](items/claude-squad.md) - 一个用于管理 Claude 小分队的多会话协作工具，适合统一调度多个 Claude 实例。
 - [claude-usage](items/claude-usage.md) - 一个把 Claude Code 本地 JSONL 日志转成可视化仪表盘的工具，可统计 token、模型分布和 API 价格口径下的成本估算。
@@ -212,6 +213,7 @@
 - [iTerm2](items/iterm2.md) - macOS 上成熟稳定的高级终端应用，适合作为开发者日常 AI coding 工作台、多会话 shell 和终端协作的基础底座。
 - [Kiro](items/kiro.md) - 一个强调 spec-driven 开发的 agentic AI 开发环境，主打把需求与规格转化为可执行的工程流程，并在 IDE 内完成从原型到生产的闭环。
 - [LiteEdit](items/lite-edit.md) - 一个原生 macOS 轻量代码编辑器，主打亚秒级启动和低资源占用，适合在 AI 编码工作流里承担快速打开、浏览和小改动任务。
+- [Maestro](items/maestro.md) - 一个让你并行运行 1 到 6 个 Claude Code、Codex、Gemini CLI 等会话的桌面开发环境，每个会话都有独立 git worktree。
 - [Tabnine](items/tabnine.md) - 一个强调隐私、合规和团队可控性的 AI 编码助手，覆盖补全、聊天、测试、修复和文档生成。
 - [Trae](items/trae.md) - 一个 AI 原生 IDE / 编码工作台，提供 IDE 模式与更自主的 SOLO / Builder 模式，支持多 Agent 协作、上下文理解和从需求到交付的开发流程。
 - [Visual Studio Code](items/visual-studio-code.md) - 一个开放生态的 AI 代码编辑器与开发平台，在经典 VS Code 编辑体验之上，把 Copilot 本地 Agent、云端 Agent、CLI Agent、扩展和 MCP 能力整合进多 Agent 开发工作流。
