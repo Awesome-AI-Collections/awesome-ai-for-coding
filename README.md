@@ -28,7 +28,7 @@
 - [Dokploy MCP](items/dokploy-mcp.md) - 一个面向 Dokploy 的极简 MCP 部署工具，方便 Claude 直接接管一键部署流程。
 - [Get Shit Done](items/get-shit-done.md) - 一个面向 Claude Code、Codex、Cursor 等编码助手的 meta-prompting、context engineering 和 spec-driven development 系统，重点解决长上下文里的 context rot 问题。
 - [gmux](items/gmux.md) - 一个多智能体编排终端工具，用来组织和管理更复杂的 AI 任务流。
-- [gstack](items/gstack.md) - 一个把 Claude Code 组织成虚拟工程团队的 agentic skills 与软件工厂框架，用一组 slash commands 把产品思考、规划、评审、QA、安全审计和发布串成端到端研发流程。
+- [gstack](items/gstack.md) - 一个把 Claude Code 组织成虚拟创业团队的软件工厂框架，用 23 个 skills 把产品规划、设计、实现、审核、测试、发布、监控和复盘串成完整工程闭环。
 - [Haystack](items/haystack.md) - 一个面向 RAG、搜索与 Agent 应用的开源框架，适合搭建可检索问答和知识工作流。
 - [Jina Serve](items/jina-serve.md) - 多模态 AI 应用框架，适合搭建搜索和问答系统。
 - [kor](items/kor.md) - LLM 信息抽取工具，可直接做字段化输出。
@@ -86,6 +86,7 @@
 
 适合想找能直接参与写代码、改代码、跟任务流结合的 AI agent。
 
+- [AionUi](items/aionui.md) - 一个把内置 agent 与 Claude Code、Codex、OpenClaw、Qwen Code 等多种 coding agent 汇总到同一 Cowork 桌面工作台的开源应用。
 - [astron-agent](items/astron-agent.md) - 科大讯飞开源的高性能多 Agent 框架，强调实时协作与复杂工作流自动化。
 - [AutoGen](items/autogen.md) - 微软开源的多智能体开发框架，适合搭建可编排的 Agent 工作流与自动化系统。
 - [Autoresearch](items/autoresearch.md) - 一个自动研究循环工具，可让 AI 连续查资料、做实验并生成报告。
@@ -135,7 +136,7 @@
 - [Everything Claude Code](items/everything-claude-code.md) - 一个面向 Claude Code、Codex、OpenCode 等 agent harness 的高性能工程化系统，整合 skills、hooks、memory、持续学习、安全扫描和 token optimization，帮助团队长期稳定地用 AI 写软件。
 - [Get Shit Done](items/get-shit-done.md) - 一个面向 Claude Code、Codex、Cursor 等编码助手的 meta-prompting、context engineering 和 spec-driven development 系统，重点解决长上下文里的 context rot 问题。
 - [gmux](items/gmux.md) - 一个多智能体编排终端工具，用来组织和管理更复杂的 AI 任务流。
-- [gstack](items/gstack.md) - 一个把 Claude Code 组织成虚拟工程团队的 agentic skills 与软件工厂框架，用一组 slash commands 把产品思考、规划、评审、QA、安全审计和发布串成端到端研发流程。
+- [gstack](items/gstack.md) - 一个把 Claude Code 组织成虚拟创业团队的软件工厂框架，用 23 个 skills 把产品规划、设计、实现、审核、测试、发布、监控和复盘串成完整工程闭环。
 - [Haystack](items/haystack.md) - 一个面向 RAG、搜索与 Agent 应用的开源框架，适合搭建可检索问答和知识工作流。
 - [Helicone](items/helicone.md) - 一个开源 AI Gateway 与 LLM 可观测性平台，适合统一接入多模型、追踪成本延迟并管理 Prompt。
 - [Hermes HUD](items/hermes-hud.md) - 一个面向 Hermes agent 的终端监控面板，从 Hermes 本地数据目录实时读取记忆、项目、工具链、cron、会话和自我修正数据，帮助开发者观察 agent 的运行与成长。
@@ -167,6 +168,7 @@
 - [OpenDeRisk](items/openderisk.md) - 一个面向 AI 原生 SRE 和故障根因分析的开源系统，可结合日志、链路和代码做多智能体诊断。
 - [OpenLIT](items/openlit.md) - 开源 AI 工程平台，覆盖 LLM 可观测性、评测、规则引擎、Prompt 管理和 GPU 监控。
 - [OpenLogs](items/openlogs.md) - 一个面向 AI 智能体的可观测性平台，用于实时监控行为日志和运行轨迹。
+- [OpenRelay](items/openrelay.md) - 一个把多家 AI Provider 配额统一接入 Claude Code、Aider、OpenClaw、Cursor 和 Copilot 等开发工具的本地 relay 与配置工作台。
 - [OpenSpec](items/open-spec.md) - 一个面向 AI 编码助手的 spec-driven development 框架，通过 `openspec` CLI 和 `/opsx:*` 命令把 proposal、spec、design、tasks 和归档流程串起来。
 - [Opik](items/opik.md) - 一个开源 AI 可观测性、评测与优化平台，适合追踪、测试并持续优化 RAG、Agent 和代码助手类应用。
 - [PaddleNLP](items/paddlenlp.md) - NLP 与信息抽取工具库，可用于外贸文本结构化。
@@ -203,8 +205,11 @@
 适合把 AI 深度嵌进编辑、导航、补全和多会话开发环境的工具。
 
 - [Cursor](items/cursor.md) - 一个 AI 原生代码编辑器与开发工作台，提供智能体、代码审查、Tab 自动补全、云端 Agent 和多模型选择，支持从协作编辑到更自主的端到端开发。
+- [Emdash](items/emdash.md) - 一个面向多 coding agent 并行协作的 agentic development environment，可在本地或 SSH 远程仓库中隔离 worktree、跑任务、看 diff、测代码和提 PR。
+- [Ghostty](items/ghostty.md) - 一个强调原生 UI、性能和现代终端体验的终端应用，适合作为开发者日常 AI coding 工作台、长会话 shell 与终端协作底座。
 - [Google Antigravity](items/google-antigravity.md) - 一个面向 agent-first 时代的 AI IDE 与开发平台，强调跨编辑器、终端、浏览器的多 Agent 协作与任务编排，提供上下文感知的智能编辑体验。
 - [HumanLayer / CodeLayer](items/humanlayer.md) - HumanLayer 团队推出的 CodeLayer 开源 AI IDE，围绕 Claude Code 提供键盘优先、多会话并行、worktree 与云 worker 编排，以及 advanced context engineering 工作流。
+- [iTerm2](items/iterm2.md) - macOS 上成熟稳定的高级终端应用，适合作为开发者日常 AI coding 工作台、多会话 shell 和终端协作的基础底座。
 - [Kiro](items/kiro.md) - 一个强调 spec-driven 开发的 agentic AI 开发环境，主打把需求与规格转化为可执行的工程流程，并在 IDE 内完成从原型到生产的闭环。
 - [LiteEdit](items/lite-edit.md) - 一个原生 macOS 轻量代码编辑器，主打亚秒级启动和低资源占用，适合在 AI 编码工作流里承担快速打开、浏览和小改动任务。
 - [Tabnine](items/tabnine.md) - 一个强调隐私、合规和团队可控性的 AI 编码助手，覆盖补全、聊天、测试、修复和文档生成。
@@ -222,6 +227,7 @@
 
 适合测试生成、端到端验证、回归检查和质量门禁的工具。
 
+- [DeepEval](items/deepeval.md) - 一个面向 LLM 应用、RAG 和 agents 的开源评测框架，强调把质量评测、指标比较和回归测试接进开发与 CI 流程。
 - [DeepTeam](items/deepteam.md) - 一个面向 LLM 系统的开源红队框架，可对客服、销售、RAG 和 AI Agent 做越狱、注入和泄露类安全压测。
 - [Evidently](items/evidently.md) - 开源 ML 与 LLM 评测、测试和监控框架，适合把 AI 质量检查接入实验、回归测试和生产监控。
 - [Giskard](items/giskard.md) - 一个开源 AI 测试与红队工具库，适合给 Agent、RAG 和 LLM 应用做评测、漏洞扫描和测试集生成。
