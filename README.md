@@ -134,6 +134,7 @@
 - [Coroot](items/coroot.md) - 一个带 AI 可操作洞察的开源可观测性平台，适合 SRE 和后端团队做 RCA、SLO 和成本追踪。
 - [dmux](items/dmux.md) - 一个基于 Git worktree 的开发环境复用器，帮助并行 AI 开发时平滑切换隔离环境。
 - [Dokploy MCP](items/dokploy-mcp.md) - 一个面向 Dokploy 的极简 MCP 部署工具，方便 Claude 直接接管一键部署流程。
+- [EverOS](items/everos.md) - 一个把长期记忆方法、评测基准和实际 use cases 收拢到一起的 agent memory 开发底座，适合构建会持续演化的 AI agents。
 - [Everything Claude Code](items/everything-claude-code.md) - 一个面向 Claude Code、Codex、OpenCode 等 agent harness 的高性能工程化系统，整合 skills、hooks、memory、持续学习、安全扫描和 token optimization，帮助团队长期稳定地用 AI 写软件。
 - [Get Shit Done](items/get-shit-done.md) - 一个面向 Claude Code、Codex、Cursor 等编码助手的 meta-prompting、context engineering 和 spec-driven development 系统，重点解决长上下文里的 context rot 问题。
 - [gmux](items/gmux.md) - 一个多智能体编排终端工具，用来组织和管理更复杂的 AI 任务流。
@@ -197,8 +198,8 @@
 - [vLLM](items/vllm.md) - 高吞吐 LLM 推理引擎，适合服务化部署。
 - [Waza](items/waza.md) - 一个把需求思考、设计、检查、调试、研究和写作等工程习惯打包成 Claude Code skills 的技能集合，帮助开发者把方法论直接嵌进日常工作流。
 - [Weaviate](items/weaviate.md) - 向量数据库，支持结构化过滤与语义检索。
-- [wechat_articles_spider](items/wechat-articles-spider.md) - 一个面向微信公众号的小规模爬取工具，不依赖抓包，支持近两天更新、历史文章与关键词评分检索。
 - [Web Access](items/web-access.md) - 一个给 Claude Code、Codex、Cursor 等 AI agents 补上联网策略、CDP 浏览器控制和站点经验复用能力的开源 skill。
+- [wechat_articles_spider](items/wechat-articles-spider.md) - 一个面向微信公众号的小规模爬取工具，不依赖抓包，支持近两天更新、历史文章与关键词评分检索。
 - [XCrawl](items/xcrawl.md) - 一个面向网页与站点数据获取的托管 API 服务，可直接配合 OpenClaw 使用，适合不想自己维护浏览器自动化和反爬细节的团队。
 - [小龙 OpenClaw 语音助手](items/xiaolong-openclaw.md) - 一个把 OpenClaw 变成语音交互的离线唤醒助手，支持 ASR + TTS + 工具调用，让你用语音驱动编码类 Agent。
 
@@ -224,6 +225,7 @@
 
 适合做 PR 审查、diff 分析、风险提醒和 review 自动化的工具。
 
+- [Loopwise](items/loopwise.md) - 一个让 Claude Code 和 Codex CLI 反复交叉审查计划与代码的 review loop 工具，适合把第二视角审查接进开发流程。
 - [PR-Agent](items/pr-agent.md) - Qodo 社区维护的开源 PR 审查 agent，可在 GitHub、GitLab 等平台自动生成 review、improve 和 ask 反馈。
 
 ### Testing
@@ -244,7 +246,7 @@
 适合生成、整理、转换和维护研发文档与上下文资料的工具。
 
 - [Impeccable](items/impeccable.md) - 一个面向 AI harness 的设计技能体系，用一组命令把设计上下文、评审、排版、配色、布局、动效和硬化检查编码成可复用的前端设计工作流。
-- [Markdown Viewer Skills](items/markdown-viewer-skills.md) - 一个面向 AI coding agents 的技能仓库，提供图表、架构图、流程图、信息卡片和 Markdown 可视化技能。
+- [Markdown Viewer Skills](items/markdown-viewer-skills.md) - 一个面向 AI coding agents 的技能仓库，提供图表、架构图、流程图、信息卡片和 Markdown 可视化技能，帮助代理直接生成更专业的技术文档与图示。
 - [MarkItDown](items/markitdown.md) - 微软开源的文件转 Markdown 工具，适合做 Office 文档和杂格式资料的统一转换层，但在 PDF 标题与表格保真上明显偏弱。
 - [Skill Seekers](items/skill-seekers.md) - 一个把文档站、GitHub 仓库、PDF、视频等多源资料转换成 Claude Skill、RAG 文档和 IDE AI 上下文的数据层工具。
 
