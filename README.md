@@ -198,6 +198,7 @@
 - [Waza](items/waza.md) - 一个把需求思考、设计、检查、调试、研究和写作等工程习惯打包成 Claude Code skills 的技能集合，帮助开发者把方法论直接嵌进日常工作流。
 - [Weaviate](items/weaviate.md) - 向量数据库，支持结构化过滤与语义检索。
 - [wechat_articles_spider](items/wechat-articles-spider.md) - 一个面向微信公众号的小规模爬取工具，不依赖抓包，支持近两天更新、历史文章与关键词评分检索。
+- [Web Access](items/web-access.md) - 一个给 Claude Code、Codex、Cursor 等 AI agents 补上联网策略、CDP 浏览器控制和站点经验复用能力的开源 skill。
 - [XCrawl](items/xcrawl.md) - 一个面向网页与站点数据获取的托管 API 服务，可直接配合 OpenClaw 使用，适合不想自己维护浏览器自动化和反爬细节的团队。
 - [小龙 OpenClaw 语音助手](items/xiaolong-openclaw.md) - 一个把 OpenClaw 变成语音交互的离线唤醒助手，支持 ASR + TTS + 工具调用，让你用语音驱动编码类 Agent。
 
@@ -243,6 +244,7 @@
 适合生成、整理、转换和维护研发文档与上下文资料的工具。
 
 - [Impeccable](items/impeccable.md) - 一个面向 AI harness 的设计技能体系，用一组命令把设计上下文、评审、排版、配色、布局、动效和硬化检查编码成可复用的前端设计工作流。
+- [Markdown Viewer Skills](items/markdown-viewer-skills.md) - 一个面向 AI coding agents 的技能仓库，提供图表、架构图、流程图、信息卡片和 Markdown 可视化技能。
 - [MarkItDown](items/markitdown.md) - 微软开源的文件转 Markdown 工具，适合做 Office 文档和杂格式资料的统一转换层，但在 PDF 标题与表格保真上明显偏弱。
 - [Skill Seekers](items/skill-seekers.md) - 一个把文档站、GitHub 仓库、PDF、视频等多源资料转换成 Claude Skill、RAG 文档和 IDE AI 上下文的数据层工具。
 
