@@ -109,7 +109,7 @@
 - [Agenta](items/agenta.md) - 一个开源 LLMOps 平台，把 Prompt 管理、评测和可观测性整合到同一套产品与工程协作流程里。
 - [AgentHandover](items/agenthandover.md) - 一个在 macOS 上录制真实工作流程、自动生成可自我改进 skills，并交给 Claude Code、Codex、OpenClaw、Hermes 等 agent 执行的工作交接工具。
 - [AI Website Cloner Template](items/ai-website-cloner-template.md) - 一个面向 AI coding agents 的网站反向工程模板，能把任意网站重建为干净、可运行的 Next.js + TypeScript 代码库。
-- [Apify MCP Server](items/apify-mcp-server.md) - 一个把 Apify Store 里的抓取器、爬虫和自动化工具开放给 AI agents 调用的 MCP server，适合在平台没开放 API 时补上网页级数据连接能力。
+- [Apify MCP Server](items/apify-mcp-server.md) - 一个把 5,000+ Apify Actors 通过 MCP 暴露给 AI agents 的接入层，适合把网页抓取和站点自动化能力接进工程流程。
 - [Automagik Omni](items/automagik-omni.md) - 一个为 AI agents 提供 WhatsApp、Discord、Telegram 等多渠道接入的事件驱动平台，适合做跨社媒和消息渠道的统一 Agent 接入层。
 - [awesome-ai-devtools](items/awesome-ai-devtools.md) - 一个系统梳理 AI 编程生态的精选合集，覆盖 IDE、终端代理、代码审查、测试自动化与多智能体基础设施。
 - [BMad Method](items/bmad-method.md) - 一个 AI-driven agile development 框架与模块生态，通过专家代理、结构化工作流和 scale-adaptive 规划，把分析、架构、开发、测试和部署串成可扩展的软件工程流程。
