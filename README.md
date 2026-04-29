@@ -188,6 +188,7 @@
 - [Semantic Kernel](items/semantic-kernel.md) - 微软的 AI 应用编排 SDK，适合把模型、提示词、插件和企业系统接成工程化工作流。
 - [sentence-transformers](items/sentence-transformers.md) - 文本向量化工具，适合产品和客户相似度检索。
 - [sim](items/sim.md) - 一个面向多智能体工作流的模拟与构建工作室，用于在真实上线前做编排验证和测试。
+- [Skills For Real Engineers](items/skills-for-real-engineers.md) - Matt Pocock 公开的 Claude/Codex 等编码 agent 技能集合，用小而可组合的 skills 把需求澄清、共享语言、TDD、诊断和架构改进嵌入真实工程流程。
 - [spaCy](items/spacy.md) - 工业级 NLP 框架，适合外贸邮件自动分类。
 - [Spec Kit](items/spec-kit.md) - GitHub 开源的 spec-driven development 工具包，通过 Specify CLI 和一组 agent 命令把需求、计划、任务拆解和实现执行串成可复用研发流程。
 - [stanza](items/stanza.md) - 多语 NLP 工具箱，适合命名实体与句法分析。
