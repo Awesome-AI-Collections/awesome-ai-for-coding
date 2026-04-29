@@ -95,6 +95,7 @@
 - [Collaborator AI](items/collaborator-ai.md) - 一个面向生产环境的多智能体协作平台，强调企业级任务协同与工作流管理。
 - [crewAI](items/crewai.md) - 一个面向任务分工与角色协作的多智能体框架，适合搭建可复用的 Agent 工作流。
 - [HappyClaw](items/happyclaw.md) - 一个基于 Claude Code 运行时构建的自托管多用户 AI Agent 系统，支持 Web 与多种 IM 渠道接入。
+- [jcode](items/jcode.md) - 一个高性能 coding agent harness，面向多会话、长期记忆、swarm 协作、多 provider / MCP 接入和可自我修改的编码 agent 工作流。
 - [Multica](items/multica.md) - 一个把软件开发任务分配给编程 Agent、跟踪执行过程，并沉淀团队可复用技能的开源平台。
 - [OpenCode](items/opencode.md) - 一个开源 AI 编码 Agent，可在终端、桌面应用或 IDE 插件中运行，支持多会话并行、LSP 自动接入，并允许连接多家模型提供商。
 - [owl](items/owl.md) - camel-ai 开源的多智能体协作框架，可让专业化 Agent 借助浏览器、终端、函数和 MCP 进行团队作战。
@@ -139,6 +140,7 @@
 - [Dokploy MCP](items/dokploy-mcp.md) - 一个面向 Dokploy 的极简 MCP 部署工具，方便 Claude 直接接管一键部署流程。
 - [EverOS](items/everos.md) - 一个把长期记忆方法、评测基准和实际 use cases 收拢到一起的 agent memory 开发底座，适合构建会持续演化的 AI agents。
 - [Everything Claude Code](items/everything-claude-code.md) - 一个面向 Claude Code、Codex、OpenCode 等 agent harness 的高性能工程化系统，整合 skills、hooks、memory、持续学习、安全扫描和 token optimization，帮助团队长期稳定地用 AI 写软件。
+- [Fusion](items/fusion.md) - 一个开源多节点编码 agent 编排器，把需求规格、计划、执行、评审、质量门禁、git worktree 和自动合并串进同一块工程任务看板。
 - [Get Shit Done](items/get-shit-done.md) - 一个面向 Claude Code、Codex、Cursor 等编码助手的 meta-prompting、context engineering 和 spec-driven development 系统，重点解决长上下文里的 context rot 问题。
 - [gmux](items/gmux.md) - 一个多智能体编排终端工具，用来组织和管理更复杂的 AI 任务流。
 - [GrapeRoot](items/graperoot.md) - 一个给 Claude Code、Codex CLI、Cursor 等 AI coding assistants 预加载相关代码上下文的上下文引擎，主打降低 token 成本、减少探索回合并提升代码问答效率。
